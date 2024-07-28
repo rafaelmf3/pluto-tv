@@ -1,0 +1,7 @@
+go.sum
+.env
+
+/Part1/asynchronous_code/node_modules
+/Part1/concurrent_requests/node_modules
+/Part1/express_api/node_modules
+/Part1/express_api/package-lock.json
